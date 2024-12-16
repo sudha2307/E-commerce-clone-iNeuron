@@ -1,6 +1,6 @@
 # E-commerce-clone-iNeuron
 # Screenshots:
-	![Screenshot 2024-12-16 105606](https://github.com/user-attachments/assets/7ac31d13-9ce1-428a-a82c-c9e97b9d0519)
+	[Screenshot 2024-12-16 105606](https://github.com/user-attachments/assets/7ac31d13-9ce1-428a-a82c-c9e97b9d0519)
 
 # High-level Document:
 	https://1drv.ms/w/c/c1117ac71980796f/EZwyD3xYMTBIhgjcr-T4RdYBTmCxHqIqsFiJw_IBJnYFSQ?e=40W2eS
