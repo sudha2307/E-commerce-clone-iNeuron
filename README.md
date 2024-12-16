@@ -8,4 +8,10 @@
 	https://1drv.ms/w/c/c1117ac71980796f/ER2x3I7XOfpJuIJu4jitjm8Bom18LsE3ODyQGVD9FEwZ5A?e=6oDoMi
 #  Wireframe:
 	https://1drv.ms/w/c/c1117ac71980796f/EYYnt-Mq29VAtC1iP5uj5vABufd39lQOaaDDxy5ZaPCA8g?e=0YyFwj
+# Demo Video:
+	https://drive.google.com/file/d/1s4qSAhkuTFGd1kWfybROM50Nv1viiOG6/view?usp=sharing
+# Detail Report :
+	https://1drv.ms/w/c/c1117ac71980796f/ERniJrikI5NAmZ6NSIbm7EIBdRxIQgNn6EyYXBEQYhNyjA?e=TfNgZ6
  
+	s 
+
